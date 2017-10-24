@@ -4,4 +4,9 @@
     <string name="confirm">Confirmación</string>
     <string name="confirm_message">Estás seguro de que quieres borrar \'%s\'?</string>
     <string name="remove">Borrar</string>
+    <string name="cannot_write">No se puede escribir la lista</string>
+    <string name="cannot_read">No se ha podido leer la lista</string>
+    <string name="clear_checked">Borrar seleccionados</string>
+    <string name="clear_all">Borrar todos</string>
+    <string name="confirm_clear_all">¿Estás seguro de que quieres borrar todos los elementos?</string>
 </resources>
